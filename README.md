@@ -1,15 +1,23 @@
 # 💫 About Me:
-🌟 Rohini Singh — AI Data Analyst 🙋‍♀️
-Let’s be real — data is my language. Whether it’s SQL, Python, dashboards, or cloud platforms, I excel at transforming raw numbers into clear insights. 🎯
+🌟 Rohini Singh AI Data Analyst 🙋‍♀️
+Let’s be real, data is my language. Whether it’s SQL, Python, dashboards, or cloud platforms, I excel at transforming raw numbers into clear insights. 🎯
 
-🔗 Skip long intros — my work speaks for itself: [Rohini Singh](https://www.linkedin.com/in/rohini-singh-8a97a1229). Every post shows my real job.
+🔗 Skip long intros, my work speaks for itself: [Rohini Singh](https://www.linkedin.com/in/rohini-singh-8a97a1229). Every post shows my real job.
 
 🛠️ PRACTICAL SKILLS
 
-Favorites: 📊 Tableau, 🐍 Python, 🧮 SQL Server, ☁️ AWS, 🧹 Excel
+ 🔹Tableau,
+ 🔹 Power BI ( DAX, Power Query, Data modelling, Power BI Services),
+ 🔹 Python (LIB: panda,numpy, matplotlib) 
+ 🔹 Feature Engineering,
+ 🔹 SQL Server, MySQL,
+ 🔹 AWS, Snowflake,
+ 🔹 Excel
+ 🔹 Business Intelligence
 
 📫 CONTACT
-GitHub: [Gitrohinihub](https://github.com/Gitrohinihub)
+
+Email: miss.rohini09coder@gmail.com
 
 🙋‍♀️ PRONOUNS
 
@@ -23,7 +31,7 @@ She/Her
 
 👨‍🏫 MENTORS WHO INSPIRE ME
 
-Krish Naik, Jayant Taponai, Nitish Sir
+Krish Naik, Jayant Taponai, Nitish Singh
 
 
 
