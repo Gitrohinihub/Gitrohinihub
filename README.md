@@ -24,14 +24,12 @@ Email: miss.rohini09coder@gmail.com
 She/Her
 
 🎯 HOBBIES
-
-👩‍🍳 Cooking new recipes
-🎧 Listening to English music
-🧩 Solving SQL problems for fun
+solving case studies 
+listening english music
 
 👨‍🏫 MENTORS WHO INSPIRE ME
 
-Krish Naik, Jayant Taponai, Nitish Singh
+ Nitish Singh and Sai sir 
 
 
 
