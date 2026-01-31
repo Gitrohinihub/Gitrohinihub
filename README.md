@@ -1,10 +1,10 @@
-# 💫 About Me:
-🌟 Rohini Singh AI Data Analyst 🙋‍♀️
+#  About Me:
+Rohini Singh AI Data Analyst 🙋‍♀️
 Let’s be real, data is my language. Whether it’s SQL, Python, dashboards, or cloud platforms, I am an expert at transforming raw numbers into clear insights. 🎯
 
 🔗 Skip long intros, my work speaks for itself: [Rohini Singh](https://www.linkedin.com/in/rohini-singh-). Every post shows my real job.
 
-🛠️ PRACTICAL SKILLS
+PRACTICAL SKILLS
 
  🔹Tableau,
  🔹 Power BI ( DAX, Power Query, Data modelling, Power BI Services),
@@ -15,22 +15,23 @@ Let’s be real, data is my language. Whether it’s SQL, Python, dashboards, or
  🔹 Excel
  🔹 Business Intelligence
 
-📫 CONTACT
+CONTACT
 
 Email: miss.rohini09coder@gmail.com
 
-🙋‍♀️ PRONOUNS
+PRONOUNS
 
 She/Her
 
-🎯 HOBBIES
+HOBBIES
 
 solving case studies 
+
 listening english music
 
-👨‍🏫 MENTORS WHO INSPIRE ME
+MENTORS WHO INSPIRE ME
 
- Nitish Singh and Sai sir 
+Krish Naik, Nitish Singh and Sai sir 
 
 
 
