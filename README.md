@@ -19,19 +19,12 @@ CONTACT
 
 Email: miss.rohini09coder@gmail.com
 
-PRONOUNS
+PRONOUNS : She/Her
 
-She/Her
+HOBBIES : • solving case studies 
+          • listening english music
 
-HOBBIES
-
-solving case studies 
-
-listening english music
-
-MENTORS WHO INSPIRE ME
-
-Krish Naik, Nitish Singh and Sai sir 
+MENTORS WHO INSPIRE ME :  Krish Naik, Nitish Singh and Sai sir 
 
 
 
